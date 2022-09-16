@@ -1,0 +1,3 @@
+C:/Users/ALope/CLionProjects/Circle/cmake-build-debug/CMakeFiles/Circle.dir
+C:/Users/ALope/CLionProjects/Circle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALope/CLionProjects/Circle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
